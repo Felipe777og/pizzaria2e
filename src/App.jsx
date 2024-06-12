@@ -4,7 +4,7 @@ import Home from './pages/Home'
 
 const App = () => {
 
-  const[color] = useState("#f8ccc")
+  const [color] = useState("#f8cccc")
   document.body.style.backgroundColor = color
 
   return(
